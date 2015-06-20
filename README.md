@@ -5,13 +5,15 @@
 - Tutsplus : [tutsplus.com ](http://tutsplus.com)
 - Lynda : [Lynda.com](http://lynda.com)
 - Teamtreehouse : [http://teamtreehouse.com](http://teamtreehouse.com)
+	- Bisa diskon sampai 48% untuk siswa sekolah/mahasiswa ([Discounted Student Plan](https://teamtreehouse.com/support))
+- Udemy : [http://www.udemy.com](http://udemy.com)
 
 ## Link Tutorial gratis dan blog ttg web designer: ##
 
-- Webdesign tutsplus : [http://webdesign.tutsplus.com](http://webdesign.tutsplus.com)
+- Webdesigntutsplus+ : [http://webdesign.tutsplus.com](http://webdesign.tutsplus.com)
 - Codrops : [http://tympanus.net/codrops](http://tympanus.net/codrops)
 - Smashing Magazine : [http://smashingmagazine.com](http://smashingmagazine.com)
-- Css triks : [http://css-tricks.com](http://css-tricks.com)
+- CSS Tricks : [http://css-tricks.com](http://css-tricks.com)
 - 1stwebdesigner : [http://1stwebdesigner.com](http://1stwebdesigner.com)
 - webdesignerdepot : [http://webdesignerdepot.com](http://webdesignerdepot.com)
 
@@ -71,6 +73,7 @@
 - [YAML CSS Framework](http://www.yaml.de/)
 - [Zurb Foundation](http://foundation.zurb.com/)
 - [Golden Gridlet System](http://goldengridsystem.com)
+- [Furtive](http://furtive.co)
 
 ### Twitter Bootstrap Resources ###
 - [Bootstrap Hero](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
